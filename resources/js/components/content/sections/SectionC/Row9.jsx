@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 function Row9() {
     return (
         <>
-            <g id="seat-4346" className="booth">
+            <g id="seat-4352" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -25,7 +25,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4347" className="booth">
+            <g id="seat-4353" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -47,7 +47,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4348" className="booth">
+            <g id="seat-4354" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -69,7 +69,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4349" className="booth">
+            <g id="seat-4355" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -91,7 +91,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4350" className="booth">
+            <g id="seat-4356" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -113,7 +113,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4351" className="booth">
+            <g id="seat-4357" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -135,7 +135,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4352" className="booth">
+            <g id="seat-4358" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -157,7 +157,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4353" className="booth">
+            <g id="seat-4359" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -179,7 +179,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4354" className="booth">
+            <g id="seat-4360" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -201,7 +201,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4355" className="booth">
+            <g id="seat-4361" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -223,7 +223,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4356" className="booth">
+            <g id="seat-4362" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -245,7 +245,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4357" className="booth">
+            <g id="seat-4363" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -267,7 +267,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4358" className="booth">
+            <g id="seat-4364" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -289,7 +289,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4359" className="booth">
+            <g id="seat-4365" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -311,7 +311,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4360" className="booth">
+            <g id="seat-4366" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -333,7 +333,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4361" className="booth">
+            <g id="seat-4367" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -355,7 +355,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4362" className="booth">
+            <g id="seat-4368" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -377,7 +377,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4363" className="booth">
+            <g id="seat-4369" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -399,7 +399,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4364" className="booth">
+            <g id="seat-4370" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -421,7 +421,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4365" className="booth">
+            <g id="seat-4371" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -443,7 +443,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4366" className="booth">
+            <g id="seat-4372" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
@@ -465,7 +465,7 @@ function Row9() {
                 />
             </g>
 
-            <g id="seat-4367" className="booth">
+            <g id="seat-4373" className="booth">
                 <polygon
                     className="st6 booth-fill"
                     fill="#FFFFFF"
